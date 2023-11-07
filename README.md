@@ -1,3 +1,3 @@
 # tarea
 # commit 1
-# conflicto
+# conflicto 2
