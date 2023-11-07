@@ -1,3 +1,3 @@
 # tarea
 # commit 1
-# commit main conflicto
+commit main conflicto  dato nuie
